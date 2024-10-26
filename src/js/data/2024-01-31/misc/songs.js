@@ -1,8 +1,8 @@
 
 export const songs = [
 	{
-    name: "Lupin the Third: Mine Fujiko to Iu Onna - Duty Friend by NIKIIE",
-    videoId : "https://nl.catbox.video/ty9egp.webm",
+    name: "Shinseiki Evangelion - Zankoku na Tenshi no Thesis by Yoko Takahashi",
+    videoId : "https://eudist.animemusicquiz.com/71u5bi.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -11,8 +11,8 @@ export const songs = [
     }
 },
 	{
-    name: "Hai to Gensou no Grimgar - Harvest by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/hg5csx.webm",
+    name: "Shinseiki Evangelion - FLY ME TO THE MOON -4 BEAT VERSION- by Yoko Takahashi",
+    videoId : "https://eudist.animemusicquiz.com/g4taps.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -21,8 +21,8 @@ export const songs = [
     }
 },
 	{
-    name: "Hai to Gensou no Grimgar - Cultivate by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/qy8p8r.webm",
+    name: "Shinseiki Evangelion - FLY ME TO THE MOON <YOKO TAKAHASHI Acid Bossa Version> by Yoko Takahashi",
+    videoId : "https://eudist.animemusicquiz.com/8rrajw.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -31,8 +31,8 @@ export const songs = [
     }
 },
 	{
-    name: "Hai to Gensou no Grimgar - rainy tone by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/rpk4fm.webm",
+    name: "Shinseiki Evangelion - FLY ME TO THE MOON <YOKO TAKAHASHI Version> by Yoko Takahashi",
+    videoId : "https://eudist.animemusicquiz.com/eayavk.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -41,8 +41,8 @@ export const songs = [
     }
 },
 	{
-    name: "Hai to Gensou no Grimgar - seeds by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/i56l1p.webm",
+    name: "Ranma 1/2 - Friends by YAWMIN",
+    videoId : "https://eudist.animemusicquiz.com/zod2my.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -51,8 +51,8 @@ export const songs = [
     }
 },
 	{
-    name: "Hai to Gensou no Grimgar - sun will rise by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/4jj1fj.webm",
+    name: "Ranma 1/2 - Koi da! Panic by YAWMIN",
+    videoId : "https://eudist.animemusicquiz.com/dorors.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -61,8 +61,8 @@ export const songs = [
     }
 },
 	{
-    name: "Sakura Quest - Morning Glory by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/rr0rdm.webm",
+    name: "Shinseiki Evangelion Gekijouban: Shi to Shinsei - Tamashii no Refrain by Yoko Takahashi",
+    videoId : "https://eudist.animemusicquiz.com/6zljwk.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -71,8 +71,8 @@ export const songs = [
     }
 },
 	{
-    name: "Sakura Quest - Baby's breath by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/odxzn2.webm",
+    name: "Kono Minikuku mo Utsukushii Sekai - metamorphose by Yoko Takahashi",
+    videoId : "https://eudist.animemusicquiz.com/i9n2wb.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -81,8 +81,8 @@ export const songs = [
     }
 },
 	{
-    name: "Sakura Quest - thyme by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/2fm1wi.webm",
+    name: "Aquarian Age: Saga II - Don't Forget Me... - Change My Heart by Yoko Takahashi",
+    videoId : "https://eudist.animemusicquiz.com/7rp4iu.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -91,8 +91,8 @@ export const songs = [
     }
 },
 	{
-    name: "Fairy Gone - Ash-like Snow by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/90ezsl.webm",
+    name: "Aa Megami-sama - WING by Yoko Takahashi",
+    videoId : "https://eudist.animemusicquiz.com/8yndbi.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -101,8 +101,8 @@ export const songs = [
     }
 },
 	{
-    name: "Fairy Gone - Danse Dance by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/1gbwgr.webm",
+    name: "Shakugan no Shana - Yoake Umare Kuru Shoujo by Yoko Takahashi",
+    videoId : "https://eudist.animemusicquiz.com/o195s3.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -111,8 +111,8 @@ export const songs = [
     }
 },
 	{
-    name: "Fairy Gone - Forest Gleam by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/27rmfq.webm",
+    name: "Pumpkin Scissors - Aoki Flamme by Yoko Takahashi",
+    videoId : "https://eudist.animemusicquiz.com/gzppe6.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -121,8 +121,8 @@ export const songs = [
     }
 },
 	{
-    name: "Fairy Gone - blowball by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/kdxr1l.webm",
+    name: "Cobra The Animation: The Psychogun - Kizu Darake no Yume by Yoko Takahashi",
+    videoId : "https://eudist.animemusicquiz.com/z5945f.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -131,118 +131,8 @@ export const songs = [
     }
 },
 	{
-    name: "Fairy Gone - Hertzsprung gap by (K)NoW_NAME:Ayaka Tachibana & NIKIIE",
-    videoId : "https://nl.catbox.video/yqwruc.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Fairy Gone - STILL STANDING by (K)NoW_NAME:Ayaka Tachibana & NIKIIE & AIJ",
-    videoId : "https://nl.catbox.video/b48abm.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Fairy Gone - Red dog chases by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/4vv2lx.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Fairy Gone - Everlast... by (K)NoW_NAME:NIKIIE & AIJ",
-    videoId : "https://nl.catbox.video/uq2nsj.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Dorohedoro - Who am I? by (K)NoW_NAME:Ayaka Tachibana & NIKIIE",
-    videoId : "https://nl.catbox.video/i7swn3.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Dorohedoro - D.D.D.D. by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/timams.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Dorohedoro - SECONDs FLY by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/i7edi3.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Dorohedoro - 404 by (K)NoW_NAME:NIKIIE & AIJ",
-    videoId : "https://nl.catbox.video/z9xssy.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Spy × Family - Breeze by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/is51b0.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Spy × Family - GOOD DAY by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/r8pmce.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Spy × Family - Little steps by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/q1gwh4.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Spy × Family - Garden by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/2fv70p.webm",
+    name: "Cross Ange: Tenshi to Ryuu no Rondo - Shinjitsu no Mokushiroku by Yoko Takahashi",
+    videoId : "https://eudist.animemusicquiz.com/j6qetv.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -250,8 +140,8 @@ export const songs = [
         ]
     }
 },{
-    name: "Spy × Family - uneven fruit by (K)NoW_NAME:NIKIIE",
-    videoId : "https://nl.catbox.video/07824z.webm",
+    name: "Gal to Kyouryuu - Peaceful Days by Ryuuko Takahashi",
+    videoId : "https://eudist.animemusicquiz.com/vsycw0.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
