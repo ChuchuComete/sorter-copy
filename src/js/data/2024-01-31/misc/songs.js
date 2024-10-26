@@ -1,8 +1,8 @@
 
 export const songs = [
 	{
-    name: "Shinseiki Evangelion - Zankoku na Tenshi no Thesis by Yoko Takahashi",
-    videoId : "https://eudist.animemusicquiz.com/71u5bi.webm",
+    name: "Chobits - Let Me Be With You by ROUND TABLE featuring Nino",
+    videoId : "https://eudist.animemusicquiz.com/e1b477.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -11,8 +11,8 @@ export const songs = [
     }
 },
 	{
-    name: "Shinseiki Evangelion - FLY ME TO THE MOON -4 BEAT VERSION- by Yoko Takahashi",
-    videoId : "https://eudist.animemusicquiz.com/g4taps.webm",
+    name: ".hack//Tasogare no Udewa Densetsu - NEW WORLD by ROUND TABLE featuring Nino",
+    videoId : "https://eudist.animemusicquiz.com/c7r46i.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -21,8 +21,8 @@ export const songs = [
     }
 },
 	{
-    name: "Shinseiki Evangelion - FLY ME TO THE MOON <YOKO TAKAHASHI Acid Bossa Version> by Yoko Takahashi",
-    videoId : "https://eudist.animemusicquiz.com/8rrajw.webm",
+    name: ".hack//Tasogare no Udewa Densetsu - Beautiful by ROUND TABLE featuring Nino",
+    videoId : "https://eudist.animemusicquiz.com/j2f2fm.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -31,8 +31,8 @@ export const songs = [
     }
 },
 	{
-    name: "Shinseiki Evangelion - FLY ME TO THE MOON <YOKO TAKAHASHI Version> by Yoko Takahashi",
-    videoId : "https://eudist.animemusicquiz.com/eayavk.webm",
+    name: "Chibits - Book End Bossa by ROUND TABLE featuring Nino",
+    videoId : "https://eudist.animemusicquiz.com/sdj6yg.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -41,8 +41,8 @@ export const songs = [
     }
 },
 	{
-    name: "Ranma 1/2 - Friends by YAWMIN",
-    videoId : "https://eudist.animemusicquiz.com/zod2my.webm",
+    name: "Mujin Wakusei Survive - Sunny Side Hill by ROUND TABLE feat. Nino",
+    videoId : "https://eudist.animemusicquiz.com/fa56y2.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -51,8 +51,8 @@ export const songs = [
     }
 },
 	{
-    name: "Ranma 1/2 - Koi da! Panic by YAWMIN",
-    videoId : "https://eudist.animemusicquiz.com/dorors.webm",
+    name: "Top o Nerae 2! Diebuster - Groovin' Magic by ROUND TABLE feat. Nino",
+    videoId : "https://eudist.animemusicquiz.com/vzz2t6.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -61,8 +61,8 @@ export const songs = [
     }
 },
 	{
-    name: "Shinseiki Evangelion Gekijouban: Shi to Shinsei - Tamashii no Refrain by Yoko Takahashi",
-    videoId : "https://eudist.animemusicquiz.com/6zljwk.webm",
+    name: "Aria the Animation - Rainbow by ROUND TABLE feat. Nino",
+    videoId : "https://eudist.animemusicquiz.com/jr2orz.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -71,8 +71,8 @@ export const songs = [
     }
 },
 	{
-    name: "Kono Minikuku mo Utsukushii Sekai - metamorphose by Yoko Takahashi",
-    videoId : "https://eudist.animemusicquiz.com/i9n2wb.webm",
+    name: "Aria the Animation - Just For You by ROUND TABLE feat. Nino",
+    videoId : "https://eudist.animemusicquiz.com/d53uus.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -81,8 +81,8 @@ export const songs = [
     }
 },
 	{
-    name: "Aquarian Age: Saga II - Don't Forget Me... - Change My Heart by Yoko Takahashi",
-    videoId : "https://eudist.animemusicquiz.com/7rp4iu.webm",
+    name: "NHK ni Youkoso! - Puzzle by ROUND TABLE featuring Nino",
+    videoId : "https://eudist.animemusicquiz.com/erjzni.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -91,8 +91,8 @@ export const songs = [
     }
 },
 	{
-    name: "Aa Megami-sama - WING by Yoko Takahashi",
-    videoId : "https://eudist.animemusicquiz.com/8yndbi.webm",
+    name: "NHK ni Youkoso! - Puzzle -extra hot mix- by ROUND TABLE featuring Nino",
+    videoId : "https://eudist.animemusicquiz.com/jlcz7e.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -101,8 +101,8 @@ export const songs = [
     }
 },
 	{
-    name: "Shakugan no Shana - Yoake Umare Kuru Shoujo by Yoko Takahashi",
-    videoId : "https://eudist.animemusicquiz.com/o195s3.webm",
+    name: "Aria the Natural - Natsumachi by ROUND TABLE feat. Nino",
+    videoId : "https://eudist.animemusicquiz.com/8ng0vk.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -111,8 +111,8 @@ export const songs = [
     }
 },
 	{
-    name: "Pumpkin Scissors - Aoki Flamme by Yoko Takahashi",
-    videoId : "https://eudist.animemusicquiz.com/gzppe6.webm",
+    name: "Aria the Natural - Shiosai by ROUND TABLE feat. Nino",
+    videoId : "https://eudist.animemusicquiz.com/5sisbx.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -121,8 +121,8 @@ export const songs = [
     }
 },
 	{
-    name: "Cobra The Animation: The Psychogun - Kizu Darake no Yume by Yoko Takahashi",
-    videoId : "https://eudist.animemusicquiz.com/z5945f.webm",
+    name: "CLAMP in Wonderland 2 - Oh!Yeah!! by ROUND TABLE featuring Nino",
+    videoId : "https://eudist.animemusicquiz.com/2m09m5.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -131,8 +131,18 @@ export const songs = [
     }
 },
 	{
-    name: "Cross Ange: Tenshi to Ryuu no Rondo - Shinjitsu no Mokushiroku by Yoko Takahashi",
-    videoId : "https://eudist.animemusicquiz.com/j6qetv.webm",
+    name: "Yozakura Quartet - Nagareboshi by ROUND TABLE featuring Nino",
+    videoId : "https://eudist.animemusicquiz.com/0kll0r.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "One Off - Yakusoku no Basho by ROUND TABLE featuring Nino",
+    videoId : "https://eudist.animemusicquiz.com/pag5k8.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -140,8 +150,8 @@ export const songs = [
         ]
     }
 },{
-    name: "Gal to Kyouryuu - Peaceful Days by Ryuuko Takahashi",
-    videoId : "https://eudist.animemusicquiz.com/vsycw0.webm",
+    name: "One Off - Memories by ROUND TABLE featuring Nino",
+    videoId : "https://eudist.animemusicquiz.com/q4dni9.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
