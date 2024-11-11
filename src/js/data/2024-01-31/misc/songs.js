@@ -1,8 +1,8 @@
 
 export const songs = [
 	{
-    name: "Chobits - Let Me Be With You by ROUND TABLE featuring Nino",
-    videoId : "https://eudist.animemusicquiz.com/e1b477.webm",
+    name: "One Piece - We Are! by Hiroshi Kitadani",
+    videoId : "https://naedist.animemusicquiz.com/c7pqug.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -11,8 +11,8 @@ export const songs = [
     }
 },
 	{
-    name: ".hack//Tasogare no Udewa Densetsu - NEW WORLD by ROUND TABLE featuring Nino",
-    videoId : "https://eudist.animemusicquiz.com/c7r46i.webm",
+    name: "One Piece - Believe by Folder5",
+    videoId : "https://naedist.animemusicquiz.com/im1a6p.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -21,8 +21,8 @@ export const songs = [
     }
 },
 	{
-    name: ".hack//Tasogare no Udewa Densetsu - Beautiful by ROUND TABLE featuring Nino",
-    videoId : "https://eudist.animemusicquiz.com/j2f2fm.webm",
+    name: "One Piece - Hikari e by The Babystars",
+    videoId : "https://naedist.animemusicquiz.com/tlds4l.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -31,8 +31,8 @@ export const songs = [
     }
 },
 	{
-    name: "Chibits - Book End Bossa by ROUND TABLE featuring Nino",
-    videoId : "https://eudist.animemusicquiz.com/sdj6yg.webm",
+    name: "One Piece - BON VOYAGE! by BON-BON BLANCO",
+    videoId : "https://naedist.animemusicquiz.com/m2wa5w.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -41,8 +41,8 @@ export const songs = [
     }
 },
 	{
-    name: "Mujin Wakusei Survive - Sunny Side Hill by ROUND TABLE feat. Nino",
-    videoId : "https://eudist.animemusicquiz.com/fa56y2.webm",
+    name: "One Piece - Kokoro no Chizu by BOYSTYLE",
+    videoId : "https://naedist.animemusicquiz.com/a0g48o.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -51,8 +51,8 @@ export const songs = [
     }
 },
 	{
-    name: "Top o Nerae 2! Diebuster - Groovin' Magic by ROUND TABLE feat. Nino",
-    videoId : "https://eudist.animemusicquiz.com/vzz2t6.webm",
+    name: "One Piece - BRAND NEW WORLD by D-51",
+    videoId : "https://naedist.animemusicquiz.com/aemf9t.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -61,8 +61,8 @@ export const songs = [
     }
 },
 	{
-    name: "Aria the Animation - Rainbow by ROUND TABLE feat. Nino",
-    videoId : "https://eudist.animemusicquiz.com/jr2orz.webm",
+    name: "One Piece - We Are!~7-nin no Mugiwara Kaizoku-danpen by 7-nin no Mugiwara Kaizoku-dan",
+    videoId : "https://naedist.animemusicquiz.com/zjypxh.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -71,8 +71,8 @@ export const songs = [
     }
 },
 	{
-    name: "Aria the Animation - Just For You by ROUND TABLE feat. Nino",
-    videoId : "https://eudist.animemusicquiz.com/d53uus.webm",
+    name: "One Piece - Crazy Rainbow by Tackey & Tsubasa",
+    videoId : "https://naedist.animemusicquiz.com/9rrce3.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -81,8 +81,8 @@ export const songs = [
     }
 },
 	{
-    name: "NHK ni Youkoso! - Puzzle by ROUND TABLE featuring Nino",
-    videoId : "https://eudist.animemusicquiz.com/erjzni.webm",
+    name: "One Piece - Jungle P by 5050",
+    videoId : "https://naedist.animemusicquiz.com/dh2ojv.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -91,8 +91,8 @@ export const songs = [
     }
 },
 	{
-    name: "NHK ni Youkoso! - Puzzle -extra hot mix- by ROUND TABLE featuring Nino",
-    videoId : "https://eudist.animemusicquiz.com/jlcz7e.webm",
+    name: "One Piece - We Are!~Animation One Piece 10 Shuunen Ver.~ by Tohoshinki",
+    videoId : "https://naedist.animemusicquiz.com/bwx8pb.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -101,8 +101,8 @@ export const songs = [
     }
 },
 	{
-    name: "Aria the Natural - Natsumachi by ROUND TABLE feat. Nino",
-    videoId : "https://eudist.animemusicquiz.com/8ng0vk.webm",
+    name: "One Piece - Share The World by Tohoshinki",
+    videoId : "https://naedist.animemusicquiz.com/zdxhyr.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -111,8 +111,8 @@ export const songs = [
     }
 },
 	{
-    name: "Aria the Natural - Shiosai by ROUND TABLE feat. Nino",
-    videoId : "https://eudist.animemusicquiz.com/5sisbx.webm",
+    name: "One Piece - Kaze o Sagashite by Mari Yaguchi to Straw Hat",
+    videoId : "https://naedist.animemusicquiz.com/vw23ce.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -121,8 +121,8 @@ export const songs = [
     }
 },
 	{
-    name: "CLAMP in Wonderland 2 - Oh!Yeah!! by ROUND TABLE featuring Nino",
-    videoId : "https://eudist.animemusicquiz.com/2m09m5.webm",
+    name: "One Piece - One day by THE ROOTLESS",
+    videoId : "https://naedist.animemusicquiz.com/xadig3.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -131,8 +131,8 @@ export const songs = [
     }
 },
 	{
-    name: "Yozakura Quartet - Nagareboshi by ROUND TABLE featuring Nino",
-    videoId : "https://eudist.animemusicquiz.com/0kll0r.webm",
+    name: "One Piece - Fight Together by Namie Amuro",
+    videoId : "https://naedist.animemusicquiz.com/qqnmz1.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -141,8 +141,118 @@ export const songs = [
     }
 },
 	{
-    name: "One Off - Yakusoku no Basho by ROUND TABLE featuring Nino",
-    videoId : "https://eudist.animemusicquiz.com/pag5k8.webm",
+    name: "One Piece - We Go! by Hiroshi Kitadani",
+    videoId : "https://naedist.animemusicquiz.com/io0s7q.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "One Piece - HANDS UP! by Kota Shinzato",
+    videoId : "https://naedist.animemusicquiz.com/bjm0na.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "One Piece - Wake up! by AAA",
+    videoId : "https://naedist.animemusicquiz.com/425x16.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "One Piece - Hard Knock Days by GENERATIONS from EXILE TRIBE",
+    videoId : "https://naedist.animemusicquiz.com/7ghiql.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "One Piece - We Can! by Kishidan to Hiroshi Kitadani",
+    videoId : "https://naedist.animemusicquiz.com/acof2e.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "One Piece - Hope by Namie Amuro",
+    videoId : "https://naedist.animemusicquiz.com/8z0xet.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "One Piece - Super Powers by V6",
+    videoId : "https://naedist.animemusicquiz.com/7f33tu.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "One Piece - OVER THE TOP by Hiroshi Kitadani",
+    videoId : "https://naedist.animemusicquiz.com/apxeiw.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "One Piece - DREAMIN' ON by Da-iCE",
+    videoId : "https://naedist.animemusicquiz.com/hnfwlu.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "One Piece - PAINT by I Don't Like Mondays.",
+    videoId : "https://naedist.animemusicquiz.com/q29ldp.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "One Piece - Saikou Toutatsu-ten by SEKAI NO OWARI",
+    videoId : "https://naedist.animemusicquiz.com/7ub4ci.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "One Piece - Uuuuus! by Hiroshi Kitadani",
+    videoId : "https://naedist.animemusicquiz.com/fsfc2w.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -150,8 +260,8 @@ export const songs = [
         ]
     }
 },{
-    name: "One Off - Memories by ROUND TABLE featuring Nino",
-    videoId : "https://eudist.animemusicquiz.com/q4dni9.webm",
+    name: "Special Edited Edition One Piece Gyojin Tou-hen - We Go! ~Mugiwara no Ichimi ver.~ by Mugiwara no Ichimi",
+    videoId : "https://naedist.animemusicquiz.com/h8t5ov.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
