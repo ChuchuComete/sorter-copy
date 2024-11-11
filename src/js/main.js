@@ -68,7 +68,7 @@ function init() {
 
     document.querySelector('.finished.save.button').addEventListener('click', () => saveProgress('Last Result'));
     document.querySelector('.finished.list.button').addEventListener('click', generateTextList);
-    document.querySelector('.finished.list.button.two').addEventListener('click', generateRanksById);
+    document.querySelector('.finished.list.button.two').addEventListener('click', generateRanksAlphabetically);
 
     document.querySelector('.clearsave').addEventListener('click', clearProgress);
 
@@ -695,22 +695,25 @@ function generateImage() {
 }
 
 function generateRanksAlphabetically() {
-    const sortedCharacters = finalCharacters.sort((a, b) => a.name.localeCompare(b.name));
+    /*const sortedCharacters = finalCharacters.sort((a, b) => a.name.localeCompare(b.name));
     const data = sortedCharacters.reduce((str, char) => {
         str += `${char.rank} ${char.name}<br>`;
         return str;
-    }, '');
+    }, '');*/
 
-function generateRanksById() {
-    // Trie les personnages par 'id' de manière croissante
-    const sortedCharacters = finalCharacters.sort((a, b) => a.id - b.id);
+    // Trie les personnages par le nombre au début de 'name'
+    const sortedCharacters = finalCharacters.sort((a, b) => {
+        // Extraire le nombre au début de `name` pour chaque objet
+        const numA = parseInt(a.name, 10);
+        const numB = parseInt(b.name, 10);
+        
+        return numA - numB; // Trie en fonction de ces nombres
+    });
+
     const data = sortedCharacters.reduce((str, char) => {
         str += `${char.rank} ${char.name}<br>`;
         return str;
     }, '');
-    
-    return data;
-}
 
 
     const oWindow = window.open("", "", "height=640,width=480");
