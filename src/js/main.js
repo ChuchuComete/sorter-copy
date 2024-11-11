@@ -68,7 +68,7 @@ function init() {
 
     document.querySelector('.finished.save.button').addEventListener('click', () => saveProgress('Last Result'));
     document.querySelector('.finished.list.button').addEventListener('click', generateTextList);
-    document.querySelector('.finished.list.button.two').addEventListener('click', generateRanksAlphabetically);
+    document.querySelector('.finished.list.button.two').addEventListener('click', generateRanksById);
 
     document.querySelector('.clearsave').addEventListener('click', clearProgress);
 
@@ -700,6 +700,18 @@ function generateRanksAlphabetically() {
         str += `${char.rank} ${char.name}<br>`;
         return str;
     }, '');
+
+function generateRanksById() {
+    // Trie les personnages par 'id' de manière croissante
+    const sortedCharacters = finalCharacters.sort((a, b) => a.id - b.id);
+    const data = sortedCharacters.reduce((str, char) => {
+        str += `${char.rank} ${char.name}<br>`;
+        return str;
+    }, '');
+    
+    return data;
+}
+
 
     const oWindow = window.open("", "", "height=640,width=480");
     oWindow.document.write(`
