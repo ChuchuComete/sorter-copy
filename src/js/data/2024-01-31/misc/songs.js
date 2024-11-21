@@ -1,8 +1,8 @@
 
 export const songs = [
 	{
-    name: "1. One Piece - We Are! by Hiroshi Kitadani",
-    videoId : "https://naedist.animemusicquiz.com/c7pqug.webm",
+    name: "1. One Piece - Memories by Maki Otsuki",
+    videoId : "https://eudist.animemusicquiz.com/mornw7.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -11,8 +11,8 @@ export const songs = [
     }
 },
 	{
-    name: "2. One Piece - Believe by Folder5",
-    videoId : "https://naedist.animemusicquiz.com/im1a6p.webm",
+    name: "2. One Piece - RUN! RUN! RUN! by Maki Otsuki",
+    videoId : "https://eudist.animemusicquiz.com/y2bwd0.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -21,8 +21,8 @@ export const songs = [
     }
 },
 	{
-    name: "3. One Piece - Hikari e by The Babystars",
-    videoId : "https://naedist.animemusicquiz.com/tlds4l.webm",
+    name: "3. One Piece - Watashi ga Iru yo by TOMATO CUBE",
+    videoId : "https://eudist.animemusicquiz.com/xrjndc.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -31,8 +31,8 @@ export const songs = [
     }
 },
 	{
-    name: "4. One Piece - BON VOYAGE! by BON-BON BLANCO",
-    videoId : "https://naedist.animemusicquiz.com/m2wa5w.webm",
+    name: "4. One Piece - Shouchi no Suke by Suitei Shoujo",
+    videoId : "https://eudist.animemusicquiz.com/y5gbi5.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -41,8 +41,8 @@ export const songs = [
     }
 },
 	{
-    name: "5. One Piece - Kokoro no Chizu by BOYSTYLE",
-    videoId : "https://naedist.animemusicquiz.com/a0g48o.webm",
+    name: "5. One Piece - BEFORE DAWN by AI-SACHI",
+    videoId : "https://eudist.animemusicquiz.com/c9yts3.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -51,8 +51,8 @@ export const songs = [
     }
 },
 	{
-    name: "6. One Piece - BRAND NEW WORLD by D-51",
-    videoId : "https://naedist.animemusicquiz.com/aemf9t.webm",
+    name: "6. One Piece - fish by The Kaleidoscope",
+    videoId : "https://eudist.animemusicquiz.com/zu9qcr.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -61,8 +61,8 @@ export const songs = [
     }
 },
 	{
-    name: "7. One Piece - We Are!~7-nin no Mugiwara Kaizoku-danpen by 7-nin no Mugiwara Kaizoku-dan",
-    videoId : "https://naedist.animemusicquiz.com/zjypxh.webm",
+    name: "7. One Piece - GLORY-Kimi ga Iru kara- by Takako Uehara",
+    videoId : "https://eudist.animemusicquiz.com/reqfzg.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -71,8 +71,8 @@ export const songs = [
     }
 },
 	{
-    name: "8. One Piece - Crazy Rainbow by Tackey & Tsubasa",
-    videoId : "https://naedist.animemusicquiz.com/9rrce3.webm",
+    name: "8. One Piece - Shining ray by Janne Da Arc",
+    videoId : "https://eudist.animemusicquiz.com/24857a.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -81,8 +81,8 @@ export const songs = [
     }
 },
 	{
-    name: "9. One Piece - Jungle P by 5050",
-    videoId : "https://naedist.animemusicquiz.com/dh2ojv.webm",
+    name: "9. One Piece - Family by Mugiwara Kaizoku-dan",
+    videoId : "https://eudist.animemusicquiz.com/2p5lf7.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -91,8 +91,8 @@ export const songs = [
     }
 },
 	{
-    name: "10. One Piece - We Are!~Animation One Piece 10 Shuunen Ver.~ by Tohoshinki",
-    videoId : "https://naedist.animemusicquiz.com/bwx8pb.webm",
+    name: "10. One Piece - Free Will by Ruppina",
+    videoId : "https://eudist.animemusicquiz.com/3pkhva.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -101,8 +101,8 @@ export const songs = [
     }
 },
 	{
-    name: "11. One Piece - Share The World by Tohoshinki",
-    videoId : "https://naedist.animemusicquiz.com/zdxhyr.webm",
+    name: "11. One Piece - FAITH by Ruppina",
+    videoId : "https://eudist.animemusicquiz.com/zrn8eo.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -111,8 +111,8 @@ export const songs = [
     }
 },
 	{
-    name: "12. One Piece - Kaze o Sagashite by Mari Yaguchi to Straw Hat",
-    videoId : "https://naedist.animemusicquiz.com/vw23ce.webm",
+    name: "12. One Piece - A to Z by ZZ",
+    videoId : "https://eudist.animemusicquiz.com/40d9oc.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -121,8 +121,8 @@ export const songs = [
     }
 },
 	{
-    name: "13. One Piece - One day by THE ROOTLESS",
-    videoId : "https://naedist.animemusicquiz.com/xadig3.webm",
+    name: "13. One Piece - Tsuki to Taiyou by shela",
+    videoId : "https://eudist.animemusicquiz.com/y4jxma.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -131,8 +131,8 @@ export const songs = [
     }
 },
 	{
-    name: "14. One Piece - Fight Together by Namie Amuro",
-    videoId : "https://naedist.animemusicquiz.com/qqnmz1.webm",
+    name: "14. One Piece - DREAMSHIP by Ikuta☆Aiko",
+    videoId : "https://eudist.animemusicquiz.com/070nsi.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -141,8 +141,8 @@ export const songs = [
     }
 },
 	{
-    name: "15. One Piece - We Go! by Hiroshi Kitadani",
-    videoId : "https://naedist.animemusicquiz.com/io0s7q.webm",
+    name: "15. One Piece - Mirai Koukai by Tackey & Tsubasa",
+    videoId : "https://eudist.animemusicquiz.com/5i22cg.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -151,8 +151,8 @@ export const songs = [
     }
 },
 	{
-    name: "16. One Piece - HANDS UP! by Kota Shinzato",
-    videoId : "https://naedist.animemusicquiz.com/bjm0na.webm",
+    name: "16. One Piece - Eternal Pose by Asia Engineer",
+    videoId : "https://eudist.animemusicquiz.com/hlezpl.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -161,8 +161,8 @@ export const songs = [
     }
 },
 	{
-    name: "17. One Piece - Wake up! by AAA",
-    videoId : "https://naedist.animemusicquiz.com/425x16.webm",
+    name: "17. One Piece - Dear friends by TRIPLANE",
+    videoId : "https://eudist.animemusicquiz.com/oc7bak.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -171,8 +171,8 @@ export const songs = [
     }
 },
 	{
-    name: "18. One Piece - Hard Knock Days by GENERATIONS from EXILE TRIBE",
-    videoId : "https://naedist.animemusicquiz.com/7ghiql.webm",
+    name: "18. One Piece - Asu wa Kuru kara by Tohoshinki",
+    videoId : "https://eudist.animemusicquiz.com/5rckrs.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -181,8 +181,8 @@ export const songs = [
     }
 },
 	{
-    name: "19. One Piece - We Can! by Kishidan to Hiroshi Kitadani",
-    videoId : "https://naedist.animemusicquiz.com/acof2e.webm",
+    name: "19. One Piece - ADVENTURE WORLD by Delicatessen",
+    videoId : "https://eudist.animemusicquiz.com/enckpq.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -191,8 +191,8 @@ export const songs = [
     }
 },
 	{
-    name: "20. One Piece - Hope by Namie Amuro",
-    videoId : "https://naedist.animemusicquiz.com/8z0xet.webm",
+    name: "20. One Piece - Raise by Chilli Beans.",
+    videoId : "https://eudist.animemusicquiz.com/cmmodr.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -201,58 +201,8 @@ export const songs = [
     }
 },
 	{
-    name: "21. One Piece - Super Powers by V6",
-    videoId : "https://naedist.animemusicquiz.com/7f33tu.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "22. One Piece - OVER THE TOP by Hiroshi Kitadani",
-    videoId : "https://naedist.animemusicquiz.com/apxeiw.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "23. One Piece - DREAMIN' ON by Da-iCE",
-    videoId : "https://naedist.animemusicquiz.com/hnfwlu.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "24. One Piece - PAINT by I Don't Like Mondays.",
-    videoId : "https://naedist.animemusicquiz.com/q29ldp.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "25. One Piece - Saikou Toutatsu-ten by SEKAI NO OWARI",
-    videoId : "https://naedist.animemusicquiz.com/7ub4ci.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "26. One Piece - Uuuuus! by Hiroshi Kitadani",
-    videoId : "https://naedist.animemusicquiz.com/fsfc2w.webm",
+    name: "21. One Piece - Dear sunrise by Maki Otsuki",
+    videoId : "https://eudist.animemusicquiz.com/bvi3dd.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -260,8 +210,8 @@ export const songs = [
         ]
     }
 },{
-    name: "27. Special Edited Edition One Piece Gyojin Tou-hen - We Go! ~Mugiwara no Ichimi ver.~ by Mugiwara no Ichimi",
-    videoId : "https://naedist.animemusicquiz.com/h8t5ov.webm",
+    name: "22. One Piece - Sailing by BE:FIRST",
+    videoId : "https://www.youtube.com/watch?v=pzsv9JpbpH8",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
